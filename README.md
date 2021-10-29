@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color=35deg,#ff0056,#5e00ff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color=35,#ff0056,#5e00ff)
 
