@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoraes5)](https://github.com/anuraghazra/github-readme-stats)
