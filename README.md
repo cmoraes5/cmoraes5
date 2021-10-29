@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Moraes 👋
 
-<!--
+<!--hide_border
 **cmoraes5/cmoraes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoraes5&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoraes5&show_icons=true&theme=midnight-purple&hide_border=true)
 
 
