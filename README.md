@@ -1,3 +1,4 @@
+<div align="center">
 ### Olá! Eu sou o Caio Moraes 👋
 
 Sou FullStack Developer :computer:
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/caio-moraes/)](https://www.linkedin.com/in/caio-moraes-3a27a2214/)
 |
 [![Gmail Badge](https://img.shields.io/badge/-moraescaio0502@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moraescaio0502@gmail.com)](mailto:moraescaio0502@gmail.com)
+
+</div>
