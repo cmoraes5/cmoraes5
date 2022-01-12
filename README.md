@@ -1,8 +1,10 @@
 
 # Olá! Eu sou o Caio Moraes 👋
 
-##Sou FullStack Developer :computer:
+##Sou FullStack Developer
+
 <br />
+
 ###Gosto de solucionar problemas utilizando programação!
 
 <!--hide_border
