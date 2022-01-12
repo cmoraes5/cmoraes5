@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Caio Moraes 👋
 
+Sou FullStack Developer :computer:
+<br />
+Gosto de solucionar problemas utilizando programação!
+
 <!--hide_border
 **cmoraes5/cmoraes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +24,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true)
 
 <!--   [![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true"/> -->
-
-Sou FullStack Developer :computer:
-<br />
-Gosto de solucionar problemas utilizando programação!
-:rocket: &nbsp; Buscando novos desafios
+<br/>:rocket: &nbsp; Buscando novos desafios
 <br/> 🔭 &nbsp; Buscando colaborar com projetos desafiadores
 <br/> :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
 <br /> :blue_book: &nbsp; Estudando: ReactJS, Node.js, React Native, Typescript & SQLserver
