@@ -1,3 +1,4 @@
+<div align="center">
 
 # Olá! Eu sou o Caio Moraes 👋
 
@@ -20,7 +21,6 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmoraes5&show_icons=true&title_color=f72585&text_color=4cc9f0&icon_color=bde0fe&bg_color=3a0ca3&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true"/>
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Caio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Caio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  </div>
+ 
+ <br>
 
 <div align="center"
   
