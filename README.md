@@ -35,7 +35,18 @@ Here are some ideas to get you started:
 <br/>- 🔭 &nbsp; Buscando colaborar com projetos desafiadores
 <br/>- :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
 <br />- :blue_book: &nbsp; Estudando: ReactJS, Node.js, React Native, Typescript & SQLserver
-<br/>- 😄 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar LoL com amigos, aprecio um bom café, séries e momentos com a família.
-<br/>- :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CaioMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/caio-moraes/)](https://www.linkedin.com/in/caio-moraes-3a27a2214/)
-|
+<br/>- 😄 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.
+
+<div align="center" text-align="center"
+
+  <h4>
+  :email: &nbsp; Entre em contato comigo:
+  </h4>
+  
+  <a href="https://www.linkedin.com/in/caio-moraes-3a27a2214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 [![Gmail Badge](https://img.shields.io/badge/-moraescaio0502@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moraescaio0502@gmail.com)](mailto:moraescaio0502@gmail.com)
+</div>
+
+<!--   <a href = "mailto:contatolevilopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  
