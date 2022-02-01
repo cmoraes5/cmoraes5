@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoraes5&show_icons=true&title_color=f72585&text_color=4cc9f0&icon_color=bde0fe&bg_color=3a0ca3&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmoraes5&show_icons=true&title_color=f72585&text_color=4cc9f0&icon_color=bde0fe&bg_color=3a0ca3&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true"/>
+</div>
+<br>
+           
 <a href="https://cmoraes5.github.io/Portfolio/">Ver Portfólio</a>
 
-<!--   [![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoraes5&layout=compact&langs_count=7&text_color=4cc9f0&bg_color=3a0ca3&hide_border=true"/> -->
 <br/>- :rocket: &nbsp; Buscando novos desafios
 <br/>- 🔭 &nbsp; Buscando colaborar com projetos desafiadores
 <br/>- :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
