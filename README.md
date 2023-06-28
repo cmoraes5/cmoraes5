@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <br/>- :rocket: &nbsp; Buscando novos desafios
 <br/>- 🔭 &nbsp; Buscando colaborar com projetos desafiadores
-<br/>- :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
-<br />- :blue_book: &nbsp; Estudando: ReactJS, Node.js, React Native, Typescript & SQLserver
-<br/>- 😄 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar videogame com amigos, séries e momentos com a família.
+<br/>- :computer: &nbsp; Minha stack: Tailwindcss | JavaScript | TypeScript | NodeJS | Angular | React | React Native | Expo | NextJS | .NET6
+<br />- :blue_book: &nbsp; Estudando: Next, Node.js, React Native, Typescript
+<br/>- 😄 &nbsp; Sobre mim: Amo tecnologia e construir coisas, adoro futebol e gosto de jogar videogame nas horas vagas
 
 <div align="center">
 
